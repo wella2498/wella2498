@@ -46,6 +46,7 @@ My experience includes manual, functional, regression, exploratory, and API test
 
 * LinkedIn: https://www.linkedin.com/in/roelamaryodevilas/
 * Email: ella.odevilas@gmail.com
+* Website: https://roela-qa.netlify.app/
 
 
 
